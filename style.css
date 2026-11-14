@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f5f9;
+  padding: 30px;
+}
+
+main {
+  max-width: 500px;
+  margin: auto;
+  padding: 25px;
+  background: white;
+  border-radius: 12px;
+}
+
+input, button {
+  padding: 12px;
+  margin: 5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
